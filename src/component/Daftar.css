@@ -1,0 +1,18 @@
+table{
+    margin: 30px;
+}
+tr{
+    background: lightgray;
+}
+td{
+    padding: 10px;
+    
+    border: black solid 2px;
+}
+
+#header{
+    background-color: blue;
+    color: white;
+    height: 20px;
+    border: black solid 2px;
+}

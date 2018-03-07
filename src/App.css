@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+
+.container-fluid {
+float: left;
+}
+.playerimg{
+  width: 200px;
+}
+.App-title {
+  font-size: 1.5em;
+}
+
